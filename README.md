@@ -43,8 +43,9 @@ Create the watchlist structure as given in the below pic.
    `(data[1] - data[2]) / data[2])`
 4. Continuing with the Third Task, on hovering the asset in the watchlist, the user should get the option of deleting it from the watchlist. (see Pic-2 for reference) 
 
-4. The final task of this assignment is that now when a user is searching a stock, if the asset is already present, so instead of giving him the option of Add (Task-2) there should be a button of deletion.
+5. Continuing with the Fourth Task, when a user is searching a stock, if the asset is already present, so instead of giving him the option of Add (Task-2) there should be a button of deletion.
 
+6. The Final Task is to upload this project wherever you wish to do so. Be it S3, be it netlify, Heroku, Vercel wherever you feel like and provide the URL while submitting the final assignment. 
 
 ## Notes
 1. The assignment will be evaluated on the basis of the tasks completed.
