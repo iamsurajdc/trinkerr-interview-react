@@ -13,12 +13,15 @@ The objective of this assignment is to create a similar feature using the dummy 
 Create the watchlist structure as given in the below pic.
 
 `Pic-1`
+
 ![Watchlist](./assets/watchlist.png)
 
 `Pic-2`
+
 ![Add_Delete](./assets/add_delete.png)
 
 `Pic-3`
+
 ![Search](./assets/search.png)
 ## Tasks to be done
 
