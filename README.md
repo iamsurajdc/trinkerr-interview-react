@@ -2,7 +2,7 @@
 
 ### Problem Statement
 1. You need to create the search functionality, where the user can search a desired stock from the list of stocks. You will require API `1` and `2` from the Documentation. You need to make the API fetching as efficient as possible.
-2. You need to create a simple form, where the user can send a POST request to API number `3` and add the relevant data, and make sure you handle the necessary errors which Arise.
+2. You need to create a simple form, where the user can send a POST request to API number `3` and add the relevant data, and make sure you handle the necessary errors which is thrown.
 
 ### Note
 You need to implement the problem statement in order. Only if you are done with problem statement `1`, you need to move the next one. All the very best.
