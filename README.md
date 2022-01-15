@@ -36,3 +36,6 @@ BASE_URL: `http://3.108.225.220:5000`
       "lcp": 30
    }
    ```
+
+`Note`
+You need to deploy your code to any of your preferred choice like Netlify, Vercel, Heroku etc.
